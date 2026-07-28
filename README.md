@@ -696,12 +696,31 @@ As principais evidências são:
 
 ### Evidências utilizadas
 
-- Screenshot do prompt pulicado: [screenshots/prompt-publicado.png](screenshots/prompt-publicado.png)
-- Screenshot do Dataset de avaliação: [screenshots/dataset-avaliacao.png](screenshots/dataset-avaliacao.png)
-- Screenshot do tracing dos exemplos: [screenshots/tracing-exemplos.png](screenshots/tracing-exemplos.png)
-- Screenshot da saída do `src/evaluate.py` - execuções do prompt v2: [screenshots/saida-evaluate-py.png](screenshots/saida-evaluate-py.png)
-
 Essas evidências demonstram a publicação do prompt otimizado, sua execução durante o processo de avaliação e os resultados obtidos para cada métrica analisada.
+
+### Prompt publicado
+
+- Screenshot do prompt pulicado:
+
+<img src="screenshots/prompt-publicado.png" width="900"/>
+
+### Dataset
+
+- Screenshot do Dataset de avaliação:
+
+<img src="screenshots/dataset-avaliacao.png" width="900"/>
+
+### Tracing
+
+- Screenshot do tracing dos exemplos:
+
+<img src="screenshots/tracing-exemplos.png" width="900"/>
+
+### Avaliação
+
+- Screenshot da saída do `src/evaluate.py` - execuções do prompt v2:
+
+<img src="screenshots/saida-evaluate-py.png" width="900"/>
 
 ## Conclusão Final
 
